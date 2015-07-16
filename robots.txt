@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://chipwiki.github.io/sitemap.xml 
+Sitemap: http://license.chipwiki.com/sitemap.xml 

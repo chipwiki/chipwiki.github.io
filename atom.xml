@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://chipwiki.github.io/atom.xml" rel="self"/>
-  <link href="http://chipwiki.github.io/"/>
-  <updated>2015-07-16T20:02:32+08:00</updated>
-  <id>http://chipwiki.github.io/</id>
+  <title><![CDATA[ChipWiki Licenses]]></title>
+  <link href="http://license.chipwiki.com/atom.xml" rel="self"/>
+  <link href="http://license.chipwiki.com/"/>
+  <updated>2015-07-16T20:09:23+08:00</updated>
+  <id>http://license.chipwiki.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[ChipWiki authors]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Chipwiki source code sharing and development agreement]]></title>
-    <link href="http://chipwiki.github.io/blog/2015/07/17/dev-license-1.0/"/>
+    <link href="http://license.chipwiki.com/dev-license-1.0/"/>
     <updated>2015-07-17T04:01:00+08:00</updated>
-    <id>http://chipwiki.github.io/blog/2015/07/17/dev-license-1.0</id>
+    <id>http://license.chipwiki.com/dev-license-1.0</id>
     <content type="html"><![CDATA[<p>Chipwiki Source code Sharing and Development Agreement (1.0)</p>
 ]]></content>
   </entry>
